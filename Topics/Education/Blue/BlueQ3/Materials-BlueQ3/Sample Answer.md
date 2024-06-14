@@ -1,0 +1,3 @@
+### 3. Sample Answer
+
+I believe that requiring science and math majors to take humanities courses is not only relevant but beneficial. Firstly, subjects like philosophy and literature help develop critical thinking and communication skills. These skills are crucial because, as scientists, we must be able to not only conduct experiments but also **communicate our findings** effectively. Furthermore, understanding ethical and cultural contexts enhances our ability to apply science in ways that are **socially responsible** and **culturally sensitive**. This integration of knowledge enriches our professional capabilities and prepares us to **make a difference** in a diverse world.

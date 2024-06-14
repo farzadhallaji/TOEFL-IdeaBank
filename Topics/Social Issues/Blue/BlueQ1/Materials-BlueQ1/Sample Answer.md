@@ -1,0 +1,3 @@
+### 3. Sample Answer:
+
+"I personally prefer digital games over board games, primarily for their convenience and variety. Digital games **allow me to** interact with friends and family, regardless of our physical location, which is a huge advantage. They also **offer a wide variety** of experiences, from strategy to adventure, which keeps me engaged and continuously challenges my skills. Moreover, these games are constantly updated with new features, which means there's always something new to look forward to. This not only keeps the games interesting but also **allows me** to develop skills relevant to navigating today's digital world."

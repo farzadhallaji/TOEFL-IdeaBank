@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "93d8e867dfdb4436",
+    "type": "split",
+    "children": [
+      {
+        "id": "9358f5a34c835616",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4221207d69eb00a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index-blue.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f7d45857a0ac614e",
+    "type": "split",
+    "children": [
+      {
+        "id": "cbdb24e0ac810de2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4df8b15f57fa6b5a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e72714b55db2340c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9744d09387892860",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0ebfcd3e2511b558",
+    "type": "split",
+    "children": [
+      {
+        "id": "29810cbe10d901c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "239ea8b1962b1617",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "index-blue.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7fa231229b7d7b4f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "index-blue.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cc14443dcf333467",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "601c29610549de0f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "index-blue.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b4221207d69eb00a",
+  "lastOpenFiles": [
+    "Topics/Social.md",
+    "index-blue.md",
+    "index-green.md",
+    "Topics/Social Issues/Blue/BlueQ1/Prompt.md",
+    "index-blue-prompt.md",
+    "Codes/materials.py",
+    "Topics/Lifestyle/Blue/BlueQ5/Materials-BlueQ5/Ideas.md",
+    "Untitled.md",
+    "index-green-prompt.md",
+    "Topics/Social Issues/Green/GreenQ1.I/Prompt.md",
+    "Topics/Urban Development and Living/Green/GreenQPrompt 42/Materials-GreenQPrompt 42/Response.md",
+    "Topics/Urban Development and Living/Green/GreenQPrompt 42/Prompt.md",
+    "Topics/Urban Development and Living/Green/GreenQPrompt 42/Perplexity-AI.md",
+    "Topics/Urban Development and Living/Green/GreenQPrompt 42/Materials-GreenQPrompt 42",
+    "Topics/Urban Development and Living/Green/GreenQPrompt 42",
+    "Topics/Urban Development and Living/Green/GreenQPrompt 39/Materials-GreenQPrompt 39/Response.md",
+    "Topics/Urban Development and Living/Green/GreenQPrompt 39/Prompt.md",
+    "Topics/Urban Development and Living/Green/GreenQPrompt 39/Perplexity-AI.md",
+    "Topics/Urban Development and Living/Green/GreenQPrompt 39/Materials-GreenQPrompt 39",
+    "Topics/Urban Development and Living/Green/GreenQPrompt 39",
+    "Topics/Marketing and Advertising/Green/GreenQPrompt 51/Materials-GreenQPrompt 51/Response.md",
+    "Topics/Marketing and Advertising/Green/GreenQPrompt 44/Materials-GreenQPrompt 44/Response.md",
+    "Topics/Marketing and Advertising/Green/GreenQPrompt 40/Materials-GreenQPrompt 40/Response.md",
+    "Topics/Marketing and Advertising/Green/GreenQPrompt 36/Materials-GreenQPrompt 36/Response.md",
+    "Topics/Marketing and Advertising/Green/GreenQPrompt 31/Materials-GreenQPrompt 31/Response.md",
+    "Topics/Marketing and Advertising/Green/GreenQPrompt 51/Prompt.md",
+    "Topics/Marketing and Advertising/Green/GreenQPrompt 51/Perplexity-AI.md",
+    "Topics/Marketing and Advertising/Green/GreenQPrompt 51/Materials-GreenQPrompt 51",
+    "Topics/Marketing and Advertising/Green/GreenQPrompt 44/Prompt.md",
+    "Topics/Marketing and Advertising/Green/GreenQPrompt 44/Perplexity-AI.md",
+    "Topics/Marketing and Advertising/Green/GreenQPrompt 44/Materials-GreenQPrompt 44",
+    "Topics/Marketing and Advertising/Green/GreenQPrompt 40/Prompt.md",
+    "Topics/Marketing and Advertising/Green/GreenQPrompt 40/Perplexity-AI.md",
+    "Topics/Marketing and Advertising/Green/GreenQPrompt 40/Materials-GreenQPrompt 40",
+    "Topics/Marketing and Advertising/Green/GreenQPrompt 36/Materials-GreenQPrompt 36",
+    "Topics/Marketing and Advertising/Green/GreenQPrompt 31/Materials-GreenQPrompt 31"
+  ]
+}
