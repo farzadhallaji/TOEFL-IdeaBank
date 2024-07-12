@@ -1,0 +1,3 @@
+### 1. Sample Answer
+
+I believe the government should spend money on saving endangered animals. Firstly, preserving biodiversity is a public good that benefits everyone. For instance, healthy ecosystems ensure clean air and water, essential for human survival. Secondly, private organizations often lack the resources or long-term commitment necessary for large-scale conservation efforts. Government funding can provide sustained support and coordination, crucial for effective conservation programs. Finally, saving endangered species is an ethical responsibility; as stewards of the planet, we have a duty to protect the other species that share our environment. Therefore, government funding is essential for these efforts.

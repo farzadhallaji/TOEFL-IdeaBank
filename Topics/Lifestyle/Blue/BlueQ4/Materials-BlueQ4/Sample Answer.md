@@ -1,0 +1,3 @@
+### 1. Sample Answer:
+
+I prefer to live in many different cities throughout my life because it offers diverse experiences and personal growth. Living in multiple cities allows me to explore various cultures, cuisines, and lifestyles, which broadens my perspective. Additionally, adapting to new environments enhances my problem-solving skills and resilience. For example, moving from a bustling metropolis like New York to a serene town in Italy taught me adaptability and openness to change. Moreover, networking opportunities increase as I meet new people from different backgrounds, which can be beneficial for both personal and professional growth. Overall, experiencing life in various cities is enriching and fulfilling.

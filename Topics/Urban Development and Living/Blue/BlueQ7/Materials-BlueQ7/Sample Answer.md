@@ -1,0 +1,3 @@
+### 1. Sample Answer:
+
+I support the proposal to design the café as a quiet area where students can read and study. First, a quiet café will provide a peaceful environment for students to focus on their academic work. Many students, including myself, struggle to find a quiet place on campus to concentrate, and a dedicated study café would address this need. Additionally, a calm atmosphere is beneficial for mental health, offering a space to relax and reduce stress. In contrast, a noisy café with televisions and socializing might be distracting and counterproductive for those trying to study. Therefore, a quiet study café would better serve the academic needs of the university community.

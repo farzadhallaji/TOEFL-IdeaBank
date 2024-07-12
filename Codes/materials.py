@@ -11,7 +11,7 @@ def respone_separate(response_content, path_response):
     for section in sections:
         if section.startswith('1'):
             content_creation = section
-            with open(os.path.join(path_response, 'Content.md'), 'w') as f:
+            with open(os.path.join(path_response, 'Sample Answer.md'), 'w') as f:
                 f.write('### ' + content_creation)
                 
         elif section.startswith('2'):
@@ -19,15 +19,15 @@ def respone_separate(response_content, path_response):
             with open(os.path.join(path_response, 'Ideas.md'), 'w') as f:
                 f.write('### ' + ideas)
                 
-        elif section.startswith('3'):
-            sample_answer = section
-            with open(os.path.join(path_response, 'Sample Answer.md'), 'w') as f:
-                f.write('### ' + sample_answer)
+        #elif section.startswith('3'):
+            #sample_answer = section
+            #with open(os.path.join(path_response, 'Sample Answer.md'), 'w') as f:
+                #f.write('### ' + sample_answer)
                 
-        elif section.startswith('4'):
-            collocations = section
-            with open(os.path.join(path_response, 'Collocations.md'), 'w') as f:
-                f.write('### ' + collocations)
+        #elif section.startswith('4'):
+            #collocations = section
+            #with open(os.path.join(path_response, 'Collocations.md'), 'w') as f:
+                #f.write('### ' + collocations)
     
     
 def prcc(resource, number):
